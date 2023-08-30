@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@axelar-network/axelar-local-dev": "^2.0.5",
+    "@axelar-network/axelarjs-sdk": "^0.13.5",
+    "@solana/web3.js": "^1.78.4",
+    "@terra-money/terra.js": "^3.1.10"
+  }
+}
