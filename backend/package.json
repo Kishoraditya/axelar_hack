@@ -1,0 +1,13 @@
+{
+    "name": "backend",
+    "version": "1.0.0",
+    "description": "Backend code for cross-chain functionality using Axelar SDK",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "@axelar-network/axelarjs-sdk": "^0.13.5"
+    },
+    "license": "MIT"
+}
