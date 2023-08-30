@@ -3,7 +3,6 @@
 
 FundChain, a groundbreaking platform, addresses the shortcomings of existing crowdfunding, investment, and tokenization platforms. Traditional crowdfunding platforms lack investor returns, while platforms like Gitcoin rely heavily on post-success goodwill. AngelList and stonks offer lucrative options but are complex for both investors and projects seeking continuous funding.
 FundChain offers a dynamic, middle-ground solution for both innovators and investors. It revolutionizes funding by unifying resources from diverse origins—cryptocurrencies, tokens, and fiat. This is achieved through:
-
 FundChain's wallet streamlines multi-chain transactions for effortless token collection, storage of all types of tokens, coins and fiat currency. Supporting diverse blockchain ecosystems with the payment processor it enhances their accessibility.
 Robust smart contracts infrastructure ensures secure, transparent transactions, catering to intricate funding scenarios.
 Project vetting ensures quality, boosting opportunities for backers.
