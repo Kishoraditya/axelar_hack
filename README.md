@@ -18,7 +18,7 @@ better readme after mvp
 1. Multi chain token, currency wallet
 2. Payment processor
 3. user flows
-4. MVP
+4. Release 1
 
 # features
 1. Wallet generation and signing logic 
@@ -50,5 +50,7 @@ Tools/ libraries/ methods/languages
 8. Javascript
 9. CSS
 10. Html
+11. Axelar core SDK
+12. Axelar GMP
 
 Get started:
